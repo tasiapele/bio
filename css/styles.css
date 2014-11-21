@@ -7,7 +7,12 @@ html {
 img{
   width: 200px;
   padding: 0px 15px 20px 11px;
-  float: left;
+  
+ }
+
+ .whale{
+  width: 450px;
+  padding: 30px 15px 20px 11px;
  }
 
  p{
